@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'creativarian-icon';
+  src:  url('../fonts/creativarian-icon.eot?xoxouk');
+  src:  url('../fonts/creativarian-icon.eot?xoxouk#iefix') format('embedded-opentype'),
+    url('../fonts/creativarian-icon.ttf?xoxouk') format('truetype'),
+    url('../fonts/creativarian-icon.woff?xoxouk') format('woff'),
+    url('../fonts/creativarian-icon.svg?xoxouk#creativarian-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="creativarian-icon-"], [class*=" creativarian-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'creativarian-icon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.creativarian-icon-app-development:before {
+  content: "\e900";
+}
+.creativarian-icon-computer-graphic:before {
+  content: "\e901";
+}
+.creativarian-icon-development:before {
+  content: "\e902";
+}
+.creativarian-icon-development1:before {
+  content: "\e903";
+}
+.creativarian-icon-left-arrow:before {
+  content: "\e904";
+}
+.creativarian-icon-right-arrow:before {
+  content: "\e905";
+}
+.creativarian-icon-message:before {
+  content: "\e906";
+}
+.creativarian-icon-phone-call:before {
+  content: "\e907";
+}
+.creativarian-icon-placeholder:before {
+  content: "\e908";
+}
+.creativarian-icon-responsive:before {
+  content: "\e909";
+}
+.creativarian-icon-strategy:before {
+  content: "\e90a";
+}
+.creativarian-icon-training:before {
+  content: "\e90b";
+}
